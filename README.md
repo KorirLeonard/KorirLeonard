@@ -16,6 +16,20 @@ I'm constantly learning and growing as a developer. My passion lies in creating 
 
 ---
 
+## 🎖️ Skills & Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -44,48 +58,48 @@ I'm constantly learning and growing as a developer. My passion lies in creating 
 A full-stack application for booking car wash services with an admin dashboard.
 - **Tech:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL
 - **Features:** Service browsing, booking system, admin management panel, form validation
-- **Status:** ✅ Active
+- **Status:** ✅ Active | 🔴 Deployment Coming Soon
 
 ### 🛍️ [E-Commerce Full Stack](https://github.com/KorirLeonard/ecommerce-fullstack)
 A complete e-commerce management system with product management and shopping cart.
 - **Tech:** HTML, CSS, JavaScript, Node.js, Express.js, SQL Server
 - **Features:** Product CRUD operations, shopping cart, REST API, database integration
-- **Status:** ✅ Active
+- **Status:** ✅ Active | 🔴 Deployment Coming Soon
 
 ### 💅 [Glow Beauty Salon](https://github.com/KorirLeonard/Glow-beaty-salon)
 A modern, responsive beauty salon website with service booking capabilities.
 - **Tech:** HTML5, CSS3, JavaScript
 - **Features:** Responsive design, service showcase, booking form, smooth scrolling
 - **Live Demo:** [korirleonard.github.io/Glow-beaty-salon](https://korirleonard.github.io/Glow-beaty-salon/)
-- **Status:** ✅ Active
+- **Status:** ✅ Active | ✅ Live
 
 ### 🕐 [Digital Clock](https://github.com/KorirLeonard/digital-clock)
 A functional real-time digital clock displaying hours, minutes, and seconds.
 - **Tech:** HTML5, CSS3, JavaScript
 - **Features:** Real-time updates, modern UI, responsive design
 - **Live Demo:** [korirleonard.github.io/digital-clock](https://korirleonard.github.io/digital-clock/)
-- **Status:** ✅ Active
+- **Status:** ✅ Active | ✅ Live
 
 ### 🔐 [Login Form](https://github.com/KorirLeonard/Login-form)
 A clean, responsive login form with client-side validation.
 - **Tech:** HTML5, CSS3, JavaScript
 - **Features:** Form validation, responsive UI, clean design
 - **Live Demo:** [korirleonard.github.io/Login-form](https://korirleonard.github.io/Login-form/)
-- **Status:** ✅ Active
+- **Status:** ✅ Active | ✅ Live
 
 ### 🌤️ [Weather App](https://github.com/KorirLeonard/weather-app-project-)
 A dynamic weather application with real-time weather data integration.
 - **Tech:** HTML5, CSS3, JavaScript, Weather API
 - **Features:** City search, real-time weather data, humidity display, responsive design
 - **Live Demo:** [korirleonard.github.io/weather-app-project-](https://korirleonard.github.io/weather-app-project-/)
-- **Status:** ✅ Active
+- **Status:** ✅ Active | ✅ Live
 
 ### 🎨 [Portfolio Website](https://github.com/KorirLeonard/portfolio)
 My personal portfolio showcasing my work, skills, and projects.
 - **Tech:** HTML5, CSS3, JavaScript
 - **Features:** Responsive design, project showcase, about section, contact info
 - **Live Demo:** [korirleonard.github.io/portfolio](https://korirleonard.github.io/portfolio/)
-- **Status:** ✅ Active
+- **Status:** ✅ Active | ✅ Live
 
 ---
 
@@ -95,17 +109,45 @@ My personal portfolio showcasing my work, skills, and projects.
 - 💻 Full-Stack Developer
 - 🌐 Multiple Live Deployments
 - 📚 Always Learning & Growing
+- ⭐ Open Source Enthusiast
+
+---
+
+## 🌐 Live Deployments Status
+
+| Project | Status | Live Link |
+|---------|--------|-----------|
+| 🏎️ Car Wash Booking | 🔴 Deploying | Coming Soon |
+| 🛍️ E-Commerce | 🔴 Deploying | Coming Soon |
+| 💅 Glow Beauty Salon | ✅ Live | [View Demo](https://korirleonard.github.io/Glow-beaty-salon/) |
+| 🕐 Digital Clock | ✅ Live | [View Demo](https://korirleonard.github.io/digital-clock/) |
+| 🔐 Login Form | ✅ Live | [View Demo](https://korirleonard.github.io/Login-form/) |
+| 🌤️ Weather App | ✅ Live | [View Demo](https://korirleonard.github.io/weather-app-project-/) |
+| 🎨 Portfolio | ✅ Live | [View Demo](https://korirleonard.github.io/portfolio/) |
 
 ---
 
 ## 🎯 What I'm Looking For
 
-I'm interested in:
-- ✅ Full-Stack Development Opportunities
-- ✅ Open Source Contributions
-- ✅ Freelance Projects
-- ✅ Collaborations with other developers
-- ✅ Building innovative web solutions
+I'm actively seeking opportunities in:
+- ✅ **Full-Stack Development** — Building complete web applications
+- ✅ **Freelance Projects** — Remote work and contract opportunities
+- ✅ **Open Source Contributions** — Collaborating with the community
+- ✅ **Startup Teams** — Dynamic environment with growth potential
+- ✅ **Web Development Positions** — Entry to mid-level roles
+
+---
+
+## 🤝 Open to Opportunities
+
+I'm **actively looking for:**
+- 💼 **Full-Stack Developer positions**
+- 💰 **Freelance & Contract work**
+- 🚀 **Startup partnerships**
+- 👥 **Team collaborations**
+- 📈 **Mentorship & learning opportunities**
+
+**Let's work together! Reach out below.** ⬇️
 
 ---
 
@@ -115,13 +157,16 @@ I'd love to hear from you! Check out my work and feel free to reach out:
 
 - **Portfolio:** [korirleonard.github.io/portfolio](https://korirleonard.github.io/portfolio/)
 - **GitHub:** [@KorirLeonard](https://github.com/KorirLeonard)
-- **Email:** Feel free to open an issue or discussion
+- **Email:** Feel free to open an issue or discussion on any of my repositories
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/KorirLeonard)
 
 ---
 
 ## 🙏 Thanks for Visiting!
 
 Thanks for checking out my GitHub profile! Feel free to explore my projects, fork, star ⭐, or contribute. I'm always excited to learn from the community and improve my skills.
+
+**Drop a ⭐ if you find my projects useful!**
 
 Happy coding! 🚀
 
