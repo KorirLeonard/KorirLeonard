@@ -58,7 +58,8 @@ I'm constantly learning and growing as a developer. My passion lies in creating 
 A full-stack application for booking car wash services with an admin dashboard.
 - **Tech:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL
 - **Features:** Service browsing, booking system, admin management panel, form validation
-- **Status:** ✅ Active | 🔴 Deployment Coming Soon
+- **Live Demo:** [korirleonard.github.io/car-wash-booking-website](https://korirleonard.github.io/car-wash-booking-website/)
+- **Status:** ✅ Active | ✅ **LIVE & WORKING**
 
 ### 🛍️ [E-Commerce Full Stack](https://github.com/KorirLeonard/ecommerce-fullstack)
 A complete e-commerce management system with product management and shopping cart.
@@ -117,7 +118,7 @@ My personal portfolio showcasing my work, skills, and projects.
 
 | Project | Status | Live Link |
 |---------|--------|-----------|
-| 🏎️ Car Wash Booking | 🔴 Deploying | Coming Soon |
+| 🏎️ Car Wash Booking | ✅ **LIVE** | [View Demo](https://korirleonard.github.io/car-wash-booking-website/) |
 | 🛍️ E-Commerce | 🔴 Deploying | Coming Soon |
 | 💅 Glow Beauty Salon | ✅ Live | [View Demo](https://korirleonard.github.io/Glow-beaty-salon/) |
 | 🕐 Digital Clock | ✅ Live | [View Demo](https://korirleonard.github.io/digital-clock/) |
