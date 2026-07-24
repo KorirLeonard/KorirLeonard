@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** and 
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm constantly learning and growing as a developer. My passion lies in creating seamless user experiences and writing clean, maintainable code. I love working with both **frontend** and **backend** technologies to bring ideas to life.
 
-### 💻 What I Do:
+###  What I Do:
 - Build full-stack web applications
 - Design responsive and modern user interfaces
 - Integrate APIs and databases
@@ -16,7 +16,7 @@ I'm constantly learning and growing as a developer. My passion lies in creating 
 
 ---
 
-## 🎖️ Skills & Technologies
+##  Skills & Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,7 +30,7 @@ I'm constantly learning and growing as a developer. My passion lies in creating 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - HTML5, CSS3, JavaScript
@@ -54,48 +54,48 @@ I'm constantly learning and growing as a developer. My passion lies in creating 
 
 ## 📂 My Projects
 
-### 🏎️ [Car Wash Booking Website](https://github.com/KorirLeonard/car-wash-booking-website)
+### [Car Wash Booking Website](https://github.com/KorirLeonard/car-wash-booking-website)
 A full-stack application for booking car wash services with an admin dashboard.
 - **Tech:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL
 - **Features:** Service browsing, booking system, admin management panel, form validation
 - **Live Demo:** [korirleonard.github.io/car-wash-booking-website](https://korirleonard.github.io/car-wash-booking-website/)
 - **Status:** ✅ Active | ✅ **LIVE & WORKING**
 
-### 🛍️ [E-Commerce Full Stack](https://github.com/KorirLeonard/ecommerce-fullstack)
+###  [E-Commerce Full Stack](https://github.com/KorirLeonard/ecommerce-fullstack)
 A complete e-commerce management system with product management and shopping cart.
 - **Tech:** HTML, CSS, JavaScript, Node.js, Express.js, SQL Server
 - **Features:** Product CRUD operations, shopping cart, REST API, database integration
 - **Status:** ✅ Active | 🔴 Deployment Coming Soon
 
-### 💅 [Glow Beauty Salon](https://github.com/KorirLeonard/Glow-beaty-salon)
+### [Glow Beauty Salon](https://github.com/KorirLeonard/Glow-beaty-salon)
 A modern, responsive beauty salon website with service booking capabilities.
 - **Tech:** HTML5, CSS3, JavaScript
 - **Features:** Responsive design, service showcase, booking form, smooth scrolling
 - **Live Demo:** [korirleonard.github.io/Glow-beaty-salon](https://korirleonard.github.io/Glow-beaty-salon/)
 - **Status:** ✅ Active | ✅ Live
 
-### 🕐 [Digital Clock](https://github.com/KorirLeonard/digital-clock)
+###  [Digital Clock](https://github.com/KorirLeonard/digital-clock)
 A functional real-time digital clock displaying hours, minutes, and seconds.
 - **Tech:** HTML5, CSS3, JavaScript
 - **Features:** Real-time updates, modern UI, responsive design
 - **Live Demo:** [korirleonard.github.io/digital-clock](https://korirleonard.github.io/digital-clock/)
 - **Status:** ✅ Active | ✅ Live
 
-### 🔐 [Login Form](https://github.com/KorirLeonard/Login-form)
+### [Login Form](https://github.com/KorirLeonard/Login-form)
 A clean, responsive login form with client-side validation.
 - **Tech:** HTML5, CSS3, JavaScript
 - **Features:** Form validation, responsive UI, clean design
 - **Live Demo:** [korirleonard.github.io/Login-form](https://korirleonard.github.io/Login-form/)
 - **Status:** ✅ Active | ✅ Live
 
-### 🌤️ [Weather App](https://github.com/KorirLeonard/weather-app-project-)
+### [Weather App](https://github.com/KorirLeonard/weather-app-project-)
 A dynamic weather application with real-time weather data integration.
 - **Tech:** HTML5, CSS3, JavaScript, Weather API
 - **Features:** City search, real-time weather data, humidity display, responsive design
 - **Live Demo:** [korirleonard.github.io/weather-app-project-](https://korirleonard.github.io/weather-app-project-/)
 - **Status:** ✅ Active | ✅ Live
 
-### 🎨 [Portfolio Website](https://github.com/KorirLeonard/portfolio)
+###  [Portfolio Website](https://github.com/KorirLeonard/portfolio)
 My personal portfolio showcasing my work, skills, and projects.
 - **Tech:** HTML5, CSS3, JavaScript
 - **Features:** Responsive design, project showcase, about section, contact info
@@ -104,31 +104,31 @@ My personal portfolio showcasing my work, skills, and projects.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
-- 🎯 7 Public Projects
-- 💻 Full-Stack Developer
-- 🌐 Multiple Live Deployments
-- 📚 Always Learning & Growing
-- ⭐ Open Source Enthusiast
+-  7 Public Projects
+-  Full-Stack Developer
+-  Multiple Live Deployments
+- Always Learning & Growing
+-  Open Source Enthusiast
 
 ---
 
-## 🌐 Live Deployments Status
+## Live Deployments Status
 
 | Project | Status | Live Link |
 |---------|--------|-----------|
-| 🏎️ Car Wash Booking | ✅ **LIVE** | [View Demo](https://korirleonard.github.io/car-wash-booking-website/) |
-| 🛍️ E-Commerce | 🔴 Deploying | Coming Soon |
-| 💅 Glow Beauty Salon | ✅ Live | [View Demo](https://korirleonard.github.io/Glow-beaty-salon/) |
-| 🕐 Digital Clock | ✅ Live | [View Demo](https://korirleonard.github.io/digital-clock/) |
-| 🔐 Login Form | ✅ Live | [View Demo](https://korirleonard.github.io/Login-form/) |
-| 🌤️ Weather App | ✅ Live | [View Demo](https://korirleonard.github.io/weather-app-project-/) |
-| 🎨 Portfolio | ✅ Live | [View Demo](https://korirleonard.github.io/portfolio/) |
+|  Car Wash Booking | ✅ **LIVE** | [View Demo](https://korirleonard.github.io/car-wash-booking-website/) |
+|  E-Commerce | 🔴 Deploying | Coming Soon |
+| Glow Beauty Salon | ✅ Live | [View Demo](https://korirleonard.github.io/Glow-beaty-salon/) |
+|  Digital Clock | ✅ Live | [View Demo](https://korirleonard.github.io/digital-clock/) |
+|  Login Form | ✅ Live | [View Demo](https://korirleonard.github.io/Login-form/) |
+|  Weather App | ✅ Live | [View Demo](https://korirleonard.github.io/weather-app-project-/) |
+|  Portfolio | ✅ Live | [View Demo](https://korirleonard.github.io/portfolio/) |
 
 ---
 
-## 🎯 What I'm Looking For
+## What I'm Looking For
 
 I'm actively seeking opportunities in:
 - ✅ **Full-Stack Development** — Building complete web applications
@@ -139,20 +139,20 @@ I'm actively seeking opportunities in:
 
 ---
 
-## 🤝 Open to Opportunities
+## Open to Opportunities
 
 I'm **actively looking for:**
-- 💼 **Full-Stack Developer positions**
-- 💰 **Freelance & Contract work**
-- 🚀 **Startup partnerships**
-- 👥 **Team collaborations**
-- 📈 **Mentorship & learning opportunities**
+- **Full-Stack Developer positions**
+- **Freelance & Contract work**
+- **Startup partnerships**
+- **Team collaborations**
+- **Mentorship & learning opportunities**
 
-**Let's work together! Reach out below.** ⬇️
+**Let's work together! Reach out below.** 
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 I'd love to hear from you! Check out my work and feel free to reach out:
 
@@ -163,13 +163,13 @@ I'd love to hear from you! Check out my work and feel free to reach out:
 
 ---
 
-## 🙏 Thanks for Visiting!
+##  Thanks for Visiting!
 
 Thanks for checking out my GitHub profile! Feel free to explore my projects, fork, star ⭐, or contribute. I'm always excited to learn from the community and improve my skills.
 
 **Drop a ⭐ if you find my projects useful!**
 
-Happy coding! 🚀
+Happy coding! 
 
 ---
 
