@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Leonard Kimutai Korir
+# Hi there! 👋 I'm Korir Leonard 
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** and **Graphic Designer** dedicated to building beautiful, functional, and user-friendly web applications.
 
