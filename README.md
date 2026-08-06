@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** and 
 ---
 
 ##  About Me
-![Leonard Kimutai - AI Sketch](./lenny.webp)
+![Leonard Kimutai - AI Sketch](./lenny.png)
 
 I'm constantly learning and growing as a developer. My passion lies in creating seamless user experiences and writing clean, maintainable code. I love working with both **frontend** and **backend** technologies to bring ideas to life.
 
