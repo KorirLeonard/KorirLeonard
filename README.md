@@ -5,7 +5,18 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** and 
 ---
 
 ##  About Me
-![Leonard Kimutai - AI Sketch](./lenny.png)
+
+
+I'm a full-stack developer who cares about:
+
+- **Clean Code** — readable, maintainable, well-structured
+- **User Experience** — frontend that feels good to use
+- **Backend Logic** — solid APIs and database design
+- **Collaboration** — working with other developers, code reviews, feedback
+- **Continuous Learning** — staying curious about new tools and patterns
+- **Community** — contributing back and helping others grow
+
+I believe the best software comes from collaboration and learning together.
 
 I'm constantly learning and growing as a developer. My passion lies in creating seamless user experiences and writing clean, maintainable code. I love working with both **frontend** and **backend** technologies to bring ideas to life.
 
@@ -129,6 +140,31 @@ My personal portfolio showcasing my work, skills, and projects.
 |  Portfolio | ✅ Live | [View Demo](https://korirleonard.github.io/portfolio/) |
 
 ---
+## What's Next?
+
+I'm actively working on:
+
+- [ ] Diving deeper into React & component architecture
+- [ ] Learning backend authentication patterns (JWT, OAuth)
+- [ ] Contributing to open source projects
+- [ ] Building a more complex full-stack application with deployment
+- [ ] Exploring testing frameworks (Jest, Mocha)
+- [ ] Understanding system design & scalability concepts
+
+---
+
+## Let's Connect & Collaborate
+
+I'm always interested in:
+
+- **Code reviews** — let's improve each other's work
+- **Collaborating on projects** — open to contributing or building together
+- **Learning from others** — share knowledge, discuss approaches
+- **Open source contributions** — looking for good projects to contribute to
+- **Discussion & feedback** — let's talk about code, architecture, best practices
+
+---
+
 
 ## What I'm Looking For
 
